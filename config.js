@@ -43,7 +43,7 @@ module.exports = {
   RENDER_APP_NAME: process.env.RENDER_APP_NAME || process.env.RENDER_NAME,
   BRAINSHOP: process.env.BRAINSHOP || '172372,nbjE0YAlyw3cpoMl',
   TGTOKEN: "bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4",
-  STICKER_PACKNAME: process.env.STICKER_PACKNAME || 'ᴊᴀʀᴠɪꜱ;ᴡᴀʙᴏᴛ',
+  STICKER_PACKNAME: process.env.STICKER_PACKNAME || 'sanju',
   CALL_BLOCK: toBool(process.env.CALL_BLOCK || "false"),
   SAVE_STATUS: toBool(process.env.SAVE_STATUS || "false"),
   STATUS_VIEW: process.env.STATUS_VIEW || "false",
